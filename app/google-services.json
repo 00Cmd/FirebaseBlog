@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876902949132",
+    "firebase_url": "https://fir-blog-70625.firebaseio.com",
+    "project_id": "fir-blog-70625",
+    "storage_bucket": "fir-blog-70625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876902949132:android:9474592e3c90b6bf",
+        "android_client_info": {
+          "package_name": "com.example.macbookair.firebaseblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876902949132-94dti4qk3ch0jidksfvg05r3336dth20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macbookair.firebaseblog",
+            "certificate_hash": "18a6f34bd382a5c5189a8f03f2320fbdd0f999ce"
+          }
+        },
+        {
+          "client_id": "876902949132-9l44oge7k8dtbf072457vkjcnaiadpg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5OB_Sxq3kA9YUDm4A0kBwaWmkheWc-_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876902949132-9l44oge7k8dtbf072457vkjcnaiadpg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
